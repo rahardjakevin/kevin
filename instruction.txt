@@ -1,0 +1,5 @@
+Please follow the instuction for run this project
+1. Trun On apache and mysql in XAMPP
+2. import .sql file to database ilmuonedata
+3. copy file to xampp/htdocs
+4. write localhost/ilmuonedata
